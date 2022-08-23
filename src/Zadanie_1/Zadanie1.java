@@ -2,7 +2,7 @@ package Zadanie_1;
 
 // Zamiana pierwszej i ostatniej liczby w tablicy
 
-public class Elements {
+public class Zadanie1 {
 
     public static void main(String[] args) {
 
